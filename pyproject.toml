@@ -1,6 +1,6 @@
 [project]
 name = "tgx"
-version = "0.1.1"
+version = "0.1.2"
 description = "Библиотека общих функций и классов для Telegram-ботов"
 authors = [{ name = "Stanislav Shavlinsky", email = "stanislave777@gmail.com" }]
 readme = "README.md"
